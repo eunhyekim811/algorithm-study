@@ -1,0 +1,27 @@
+# Java
+*.class
+out/
+bin/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로컬 테스트용 입력 파일
+input.txt
+
+*.imil
